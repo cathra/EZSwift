@@ -47,6 +47,7 @@
 		DC35755B2068A16C00AFFDA1 /* EZSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EZSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC35755F2068A16C00AFFDA1 /* EZSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EZSwiftUITests.swift; sourceTree = "<group>"; };
 		DC3575612068A16C00AFFDA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC35756D2068A1C400AFFDA1 /* EZSwift.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = EZSwift.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +98,7 @@
 		DC35753E2068A16C00AFFDA1 /* EZSwift */ = {
 			isa = PBXGroup;
 			children = (
+				DC35756D2068A1C400AFFDA1 /* EZSwift.playground */,
 				DC35753F2068A16C00AFFDA1 /* AppDelegate.swift */,
 				DC3575412068A16C00AFFDA1 /* ViewController.swift */,
 				DC3575432068A16C00AFFDA1 /* Main.storyboard */,
